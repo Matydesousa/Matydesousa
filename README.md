@@ -33,8 +33,6 @@ Me interesan oportunidades de trabajo remoto y proyectos freelance vinculados al
 | [Simulador bancario](https://github.com/Matydesousa/simulador-bancario-java) | Modelo educativo de bancos, cuentas y cajeros, con consultas de saldo, extracciones y transferencias. | Java, programación orientada a objetos |
 | [Gestión de hotel](https://github.com/Matydesousa/gestion-hotel-c) | Modelo académico en memoria para administrar huéspedes y servicios mediante tipos opacos y listas enlazadas genéricas. | C11, estructuras de datos, memoria dinámica |
 
-El simulador bancario cuenta con aportes de **Nahue Campos**, reconocidos en el repositorio. Cada proyecto conserva su documentación y atribuciones de autoría.
-
 ## En desarrollo
 
 **Adminanzas** es mi proyecto personal de administración financiera colaborativa, desarrollado con **Laravel, Inertia y React**. Actualmente está en desarrollo.
